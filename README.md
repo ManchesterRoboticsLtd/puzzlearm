@@ -72,8 +72,7 @@ Welcome to the official repository for the Puzzlearm, a compact educational robo
 ## Instructions
 1. Install the latest Hackerboard Binaries, if not previously installed, install them following the instructions in the folder *MCR2_Hackerboard_Binaries*
 
-2. Flash the MCR2-Puzzlearm Image to the SD Card.
-   * Download the NVIDIA Jetson Nano Image
+2. Install the operating system of your computer
      * [Jetson Nano 4GB](...)
      * [Jetson Orin Nano](...)
      * [Raspberry Pi 5](...)
